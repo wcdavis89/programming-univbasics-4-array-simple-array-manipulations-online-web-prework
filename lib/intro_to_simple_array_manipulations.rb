@@ -43,7 +43,7 @@ def using_delete(array,string)
    no_offense_steven=array.delete(string)
 end
 
-def
-
+def using_delete_at(array,integer)
+   deleted_robot=array.delete_at
 end
 
