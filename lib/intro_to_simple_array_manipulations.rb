@@ -35,7 +35,7 @@ def using_uniq(array)
    new_array=array.uniq
 end
 
-def using_flatten(array1,array2)
+def using_flatten(array1)
    flat_array=array1.flatten
 end
 
